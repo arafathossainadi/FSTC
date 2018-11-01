@@ -14,3 +14,25 @@
 	padding: 10px;
 }
 
+
+
+.sww-logo{
+	width: 250px;
+	transform: translate(-60%, -240%);
+}
+
+.tpit-logo{
+	width: 250px;
+	transform: translate(55%, -315%);
+}
+
+.sis-con{
+	width: 650px;
+	margin-top: -61px;
+	/*transform: translate(-0%, -15%);*/
+}
+
+.fp{
+    width: 210px;
+    transform: translate(0%, 2%);
+}

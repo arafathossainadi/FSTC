@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"wi",
+				"width\tproperty"
+			],
+			[
 				"sec",
 				"sec\tblade-section"
 			],
@@ -24,10 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "index-01.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 66850,
+				"buffer_size": 7064,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -36,7 +40,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 36,
+				"buffer_size": 138,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -62,6 +66,14 @@
 				"Git: Quick Commit (repo)"
 			],
 			[
+				"commit",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"file s",
+				"File: Search Files"
+			],
+			[
 				"theme",
 				"Material Theme: Configuration"
 			],
@@ -72,10 +84,6 @@
 			[
 				"stat",
 				"Git: Status"
-			],
-			[
-				"commit",
-				"Git: Quick Commit (repo)"
 			],
 			[
 				"comm",
@@ -160,10 +168,13 @@
 	"expanded_folders":
 	[
 		"/D/vip/FSTC",
-		"/D/vip/FSTC/css"
+		"/D/vip/FSTC/images",
+		"/D/vip/FSTC/images/full-width-images"
 	],
 	"file_history":
 	[
+		"/D/vip/FSTC/css/style.css",
+		"/D/vip/FSTC/css/owl.carousel.css",
 		"/E/Tempo/lara/resources/views/home.blade.php",
 		"/E/Tempo/lara/resources/views/main.blade.php",
 		"/E/Tempo/lara/public/css/style.css",
@@ -218,9 +229,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 136.0,
 		"where_history":
 		[
+			"D:\\vip\\FSTC"
 		]
 	},
 	"find_state":
@@ -228,6 +240,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"scroll",
+			"team",
+			"port",
+			"future",
+			"<a href=\"#\"><img src=\"images/sww.png\" class=\"logo-reel\" alt=\"\" /></a>",
+			"<img src=\"images/tpit.png\" class=\"logo-reel-tpit\" alt=\"\" />",
+			"owl-item",
+			"owl-item-wid",
+			"services",
 			"slider",
 			"process",
 			"initi",
@@ -255,19 +276,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index-01.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 66850,
+						"buffer_size": 7064,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1381,
-								1381
+								3917,
+								3696
 							]
 						],
 						"settings":
@@ -287,6 +308,9 @@
 							"SL.26.region_keys":
 							[
 							],
+							"SL.27.region_keys":
+							[
+							],
 							"auto_complete": false,
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
@@ -294,7 +318,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 855.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -312,19 +336,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 36,
+						"buffer_size": 138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13,
-								13
+								138,
+								138
 							]
 						],
 						"settings":
 						{
+							"SL.16.region_keys":
+							[
+							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
 							"git_gutter_is_enabled": true,
 							"open_with_edit": true,
@@ -368,7 +395,7 @@
 		"cols":
 		[
 			0.0,
-			0.749407582938,
+			0.742298578199,
 			1.0
 		],
 		"rows":
@@ -407,6 +434,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"owl",
+				"css\\owl.carousel.css"
+			],
 			[
 				"sty",
 				"public\\css\\style.css"
