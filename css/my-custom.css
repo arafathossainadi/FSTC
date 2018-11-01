@@ -18,21 +18,64 @@
 
 .sww-logo{
 	width: 250px;
-	transform: translate(-60%, -240%);
+	transform: translate(-55%, -100%);
+	transition: 0.5s ease;
+}
+
+.sww-logo:hover{
+	transform: translate(-55%, -110%);
 }
 
 .tpit-logo{
 	width: 250px;
-	transform: translate(55%, -315%);
+	transform: translate(-65%, -135%)
+}
+
+.tpit-logo:hover{
+	transform: translate(-65%, -145%);
+	transition: 0.5s ease;
 }
 
 .sis-con{
+	display: inline-block;
 	width: 650px;
 	margin-top: -61px;
 	/*transform: translate(-0%, -15%);*/
 }
 
 .fp{
-    width: 210px;
-    transform: translate(0%, 2%);
+    width: 15%;
+}
+
+.sww-pin{
+	transform: translate(50%, -17%);
+}
+
+.tpit-pin{
+	transform: translate(40%, -17%);
+}
+
+@media screen and (max-width: 1200px) {
+    .sww-pin{
+    	transform: translate(10%, -17%);
+    }
+
+    .sww-logo{
+    	width: 250px;
+    	transform: translate(-105%, -100%);
+    }
+
+    .tpit-pin {
+        transform: translate(0%, -17%);
+    }
+
+    .tpit-logo {
+        width: 250px;
+        transform: translate(110%, -445%);
+    }
+
+    .sis-con{
+    	margin-top: -141px;
+    }
+
 }
