@@ -17,7 +17,7 @@
 
 
 .sww-logo{
-	width: 250px;
+	width: 210px;
 	transform: translate(-55%, -100%);
 	transition: 0.5s ease;
 }
@@ -27,31 +27,34 @@
 }
 
 .tpit-logo{
-	width: 250px;
-	transform: translate(-65%, -135%)
+	width: 210px;
+	transform: translate(-65%, -135%);
+	transition: 0.5s ease;
 }
 
 .tpit-logo:hover{
 	transform: translate(-65%, -145%);
-	transition: 0.5s ease;
 }
 
 .sis-con{
 	display: inline-block;
-	width: 650px;
-	margin-top: -61px;
+	width: 50%;
+	margin-top: -45px;
 	/*transform: translate(-0%, -15%);*/
 }
 
 .fp{
     width: 15%;
+    margin: 0 auto;
 }
 
 .sww-pin{
+	width: 20%;
 	transform: translate(50%, -17%);
 }
 
 .tpit-pin{
+	width: 20%;
 	transform: translate(40%, -17%);
 }
 
@@ -78,4 +81,43 @@
     	margin-top: -141px;
     }
 
+}
+
+@media screen and (min-height: 600px) and (min-width: 992px) and (max-width: 1200px) {
+	.sww-logo{
+		width: 17%;
+		transform: translate(-83%,-111%);
+	}
+
+	.sww-logo:hover{
+		transform: translate(-83%,-121%);
+	}
+	
+	.sww-pin{
+		width: 20%;
+		transform: translate(27%,-20%);
+
+	}
+
+	.tpit-logo{
+		width: 17%;
+		transform: translate(-46%,-140%);
+	}
+
+	.tpit-logo:hover{
+		transform: translate(-46%,-150%);
+	}
+
+	.tpit-pin{
+		width: 20%;
+		transform: translate(61%,-20%);
+	}
+
+	.sis-con{
+		transform: translate(0%, 58%);
+	}
+
+	.fp{
+		transform: translate(0%, 20%);
+	}
 }

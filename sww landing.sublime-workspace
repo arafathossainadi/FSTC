@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"img",
+				"img-responsive"
+			],
+			[
 				"wi",
 				"width\tproperty"
 			],
@@ -31,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7064,
+				"buffer_size": 7482,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -40,7 +44,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 138,
+				"buffer_size": 1214,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -167,9 +171,7 @@
 	},
 	"expanded_folders":
 	[
-		"/D/vip/FSTC",
-		"/D/vip/FSTC/images",
-		"/D/vip/FSTC/images/full-width-images"
+		"/E/Technoplus IT/FSTC"
 	],
 	"file_history":
 	[
@@ -225,7 +227,7 @@
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -280,15 +282,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7064,
+						"buffer_size": 7482,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3917,
-								3696
+								3771,
+								3771
 							]
 						],
 						"settings":
@@ -311,6 +313,9 @@
 							"SL.27.region_keys":
 							[
 							],
+							"SL.28.region_keys":
+							[
+							],
 							"auto_complete": false,
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
@@ -318,10 +323,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 855.0,
+						"translation.y": 918.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -336,20 +341,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 138,
+						"buffer_size": 1214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								138,
-								138
+								1165,
+								1165
 							]
 						],
 						"settings":
 						{
 							"SL.16.region_keys":
+							[
+							],
+							"SL.29.region_keys":
 							[
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
@@ -358,10 +366,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 900.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -395,7 +403,7 @@
 		"cols":
 		[
 			0.0,
-			0.742298578199,
+			0.592417061611,
 			1.0
 		],
 		"rows":
@@ -479,7 +487,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
