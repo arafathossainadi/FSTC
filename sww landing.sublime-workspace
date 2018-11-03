@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
-				"img",
-				"img-responsive"
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
 			],
 			[
 				"wi",
@@ -44,7 +48,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 1214,
+				"buffer_size": 1644,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -66,11 +70,11 @@
 				"Git: Push"
 			],
 			[
-				"commi",
+				"commit",
 				"Git: Quick Commit (repo)"
 			],
 			[
-				"commit",
+				"commi",
 				"Git: Quick Commit (repo)"
 			],
 			[
@@ -171,7 +175,9 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Technoplus IT/FSTC"
+		"/D/vip/FSTC",
+		"/D/vip/FSTC/images",
+		"/D/vip/FSTC/images/full-width-images"
 	],
 	"file_history":
 	[
@@ -289,8 +295,8 @@
 						"selection":
 						[
 							[
-								3771,
-								3771
+								4399,
+								4399
 							]
 						],
 						"settings":
@@ -313,9 +319,6 @@
 							"SL.27.region_keys":
 							[
 							],
-							"SL.28.region_keys":
-							[
-							],
 							"auto_complete": false,
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
@@ -323,7 +326,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 918.0,
+						"translation.y": 1305.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -341,23 +344,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1214,
+						"buffer_size": 1644,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1165,
-								1165
+								1123,
+								1123
 							]
 						],
 						"settings":
 						{
-							"SL.16.region_keys":
+							"SL.15.region_keys":
 							[
 							],
-							"SL.29.region_keys":
+							"SL.16.region_keys":
 							[
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
@@ -366,7 +369,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 900.0,
+						"translation.y": 1350.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -403,7 +406,7 @@
 		"cols":
 		[
 			0.0,
-			0.592417061611,
+			0.438981042654,
 			1.0
 		],
 		"rows":
