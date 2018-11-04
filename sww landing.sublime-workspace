@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
 				"max-",
 				"max-width\tproperty"
 			],
@@ -39,7 +51,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7482,
+				"buffer_size": 6653,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -48,7 +60,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 1644,
+				"buffer_size": 367,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -66,15 +78,19 @@
 		"selected_items":
 		[
 			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Quick Commit (repo)"
+			],
+			[
 				"push",
 				"Git: Push"
 			],
 			[
 				"commit",
-				"Git: Quick Commit (repo)"
-			],
-			[
-				"commi",
 				"Git: Quick Commit (repo)"
 			],
 			[
@@ -279,7 +295,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -288,15 +304,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7482,
+						"buffer_size": 6653,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4399,
-								4399
+								3662,
+								3662
 							]
 						],
 						"settings":
@@ -326,33 +342,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1305.0,
+						"translation.y": 802.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
 					"file": "css/my-custom.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1644,
+						"buffer_size": 367,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1123,
-								1123
+								224,
+								224
 							]
 						],
 						"settings":
@@ -363,13 +373,16 @@
 							"SL.16.region_keys":
 							[
 							],
+							"SL.28.region_keys":
+							[
+							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
 							"git_gutter_is_enabled": true,
 							"open_with_edit": true,
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1350.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -395,18 +408,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.438981042654,
 			1.0
 		],
 		"rows":
@@ -431,6 +437,10 @@
 	"output.git":
 	{
 		"height": 122.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
 	},
 	"pinned_build_system": "",
 	"project": "sww landing.sublime-project",
@@ -490,7 +500,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
