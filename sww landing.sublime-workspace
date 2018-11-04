@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
 				"di",
 				"display\tproperty"
 			],
@@ -51,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6653,
+				"buffer_size": 6904,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -60,7 +64,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 1130,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -78,7 +82,7 @@
 		"selected_items":
 		[
 			[
-				"PUSH",
+				"push",
 				"Git: Push"
 			],
 			[
@@ -86,12 +90,16 @@
 				"Git: Quick Commit (repo)"
 			],
 			[
-				"push",
-				"Git: Push"
+				"com",
+				"Git: Commit"
 			],
 			[
 				"commit",
 				"Git: Quick Commit (repo)"
+			],
+			[
+				"PUSH",
+				"Git: Push"
 			],
 			[
 				"file s",
@@ -192,8 +200,7 @@
 	"expanded_folders":
 	[
 		"/D/vip/FSTC",
-		"/D/vip/FSTC/images",
-		"/D/vip/FSTC/images/full-width-images"
+		"/D/vip/FSTC/images"
 	],
 	"file_history":
 	[
@@ -264,6 +271,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"210px",
 			"scroll",
 			"team",
 			"port",
@@ -295,7 +303,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -304,15 +312,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6653,
+						"buffer_size": 6904,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3662,
-								3662
+								3069,
+								3069
 							]
 						],
 						"settings":
@@ -342,10 +350,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 802.0,
+						"translation.y": 882.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -354,19 +362,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 1130,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								224,
-								224
+								805,
+								805
 							]
 						],
 						"settings":
 						{
+							"SL.14.region_keys":
+							[
+							],
 							"SL.15.region_keys":
 							[
 							],
@@ -382,10 +393,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -397,7 +408,7 @@
 	},
 	"input":
 	{
-		"height": 45.0
+		"height": 59.0
 	},
 	"layout":
 	{
@@ -436,7 +447,7 @@
 	},
 	"output.git":
 	{
-		"height": 122.0
+		"height": 417.0
 	},
 	"output.mdpopups":
 	{
