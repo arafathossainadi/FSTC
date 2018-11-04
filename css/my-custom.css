@@ -55,23 +55,33 @@
 
 @media screen and (max-width: 1200px) {
 	.logos>a>div, .logos>a+a>div{
-		width: 210px;
-		height: 210px;
-		/*margin: 0px 35px;*/
-		background-size: cover;
-		transition: 0.3s ease-in-out;
+		width: 150px;
+		height: 150px;
 	}
 
 	.sis-con{
-		width: 40%;
-		margin-top: 90px;
+		width: 30%;
+		margin-top: 100px;
+	}
+
+	.sww{
+		margin: 40px 10px 0 91px;
+	}
+
+	.tpit{
+		margin: 40px 91px 0 10px;
 	}
 
 	.fp{
-		width: 20%;
+		width: 10%;
 	}
 
 	.la, .ra{
 		padding-top: 112px;
+	}
+
+	.sww:hover, .tpit:hover{
+		width: 150px;
+		height: 150px;
 	}
 }
