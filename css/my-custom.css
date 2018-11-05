@@ -75,7 +75,7 @@
 	}
 
 	.fp{
-		width: 10%;
+		width: 100px;
 	}
 
 	.la, .ra{
@@ -130,3 +130,15 @@
 		height: 150px;
 	}
 }
+
+@media screen and (max-width: 480px) and (max-height: 500px){
+	.logos .sww, .logos .tpit{
+		width: 100px;
+		height: 100px;
+	}
+
+	.fp{
+		width: 50px;
+	}
+}
+

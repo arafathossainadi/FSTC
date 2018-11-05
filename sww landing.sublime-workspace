@@ -55,7 +55,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6835,
+				"buffer_size": 5811,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -64,7 +64,7 @@
 			"file": "css/my-custom.css",
 			"settings":
 			{
-				"buffer_size": 1157,
+				"buffer_size": 1655,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -256,7 +256,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -271,6 +271,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"res",
+			"101px",
+			"40px",
+			"250px",
+			"300px",
 			"210px",
 			"scroll",
 			"team",
@@ -312,15 +317,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6835,
+						"buffer_size": 5811,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3402,
-								3402
+								4987,
+								4987
 							]
 						],
 						"settings":
@@ -350,7 +355,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 720.0,
+						"translation.y": 1285.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -362,15 +367,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1157,
+						"buffer_size": 1655,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								1335,
+								1335
 							]
 						],
 						"settings":
@@ -393,7 +398,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 810.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
