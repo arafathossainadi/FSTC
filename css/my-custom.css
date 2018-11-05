@@ -1,6 +1,6 @@
-.logos>a>div, .logos>a+a>div{
-	width: 300px;
-	height: 300px;
+.logos .sww, .logos .tpit{
+	width: 200px;
+	height: 200px;
 	background-size: cover;
 	transition: 0.3s ease-in-out;
 }
@@ -8,23 +8,25 @@
 .sww{
 	float: left;
 	background: url(../images/sww-main.png) no-repeat;
+	margin: 60px 10px 0 121px;
 }
 
 .tpit{
 	float: right;
+	margin: 60px 121px 0 10px;
 	background: url(../images/tpit-main.png) no-repeat;
 }
 
 .sww:hover{
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	background: url(../images/sww-hover.png) no-repeat;
 	background-size: cover;
 }
 
 .tpit:hover{
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	background: url(../images/tpit-hover.png) no-repeat;
 	background-size: cover;
 }
@@ -44,17 +46,17 @@
 }
 
 .sis-con{
-	width: 400px;
-	margin-top: 131px;
+	width: 300px;
+	margin-top: 141px;
 }
 
 .fp{
-	width: 200px;
-	margin-top: 50px;
+	width: 150px;
+	margin-top: 25px;
 }
 
-@media screen and (max-width: 1200px) {
-	.logos>a>div, .logos>a+a>div{
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+	.logos .sww, .logos .tpit{
 		width: 150px;
 		height: 150px;
 	}
@@ -78,6 +80,49 @@
 
 	.la, .ra{
 		padding-top: 112px;
+	}
+
+	.sww:hover, .tpit:hover{
+		width: 150px;
+		height: 150px;
+	}
+}
+
+
+@media screen and (max-width: 992px){
+	.logos .sww, .logos .tpit{
+		width: 150px;
+		height: 150px;
+
+	}
+
+	.sis-con{
+		width: 110px;
+		margin-top: 10px;
+	}
+
+	.block{
+		display: block;
+	}
+
+	.sww{
+		display: inline-block;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.tpit{
+		display: inline-block;
+		float: none;
+		margin: 20px auto;
+	}
+
+	.fp{
+		width: 100px;
+	}
+
+	.la, .ra{
+		display: none;
 	}
 
 	.sww:hover, .tpit:hover{
